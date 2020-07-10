@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Am I cool?",
+        "answers": "a) yes\nb) yes\nc) yes",
+        "solution": "a",
+        "weight": 2
+    },
+    {
+        "question": "Is atela cool?",
+        "answers": "a) yes\nb) no\nc) yes",
+        "solution": "b",
+        "weight": 1
+    },
+    {
+        "question": "What is Obamas last name?",
+        "answers": "a) Bardok\nb) Wallberg\nc) Obunga",
+        "solution": "c",
+        "weight": 6
+    }
+]
